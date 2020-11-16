@@ -1,6 +1,6 @@
 <template>
   <div class="hello">
-    <h1>Hello world made by din</h1>
+    <h1>test for million times</h1>
   </div>
 </template>
 
