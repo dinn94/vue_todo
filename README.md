@@ -1,5 +1,9 @@
 # vue_todo
 
+This is a todo Vue.js project made by din
+
+
+
 ## Project setup
 ```
 npm install
