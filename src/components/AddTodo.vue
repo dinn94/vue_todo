@@ -21,6 +21,7 @@ export default {
         addTodo(e){
             e.preventDefault();
             const newTodo = {
+                // id : uuidv4(),
                 title : this.title,
                 completed : false
             }
